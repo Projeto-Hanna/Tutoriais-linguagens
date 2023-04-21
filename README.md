@@ -1,4 +1,4 @@
-# Tutoriais-linguagens
+# Tutoriais das redes sociais
 
 Aqui você encontra os links e arquivos dos tutoriais que o Projeto Hanna solta nas redes sociais!!
 
