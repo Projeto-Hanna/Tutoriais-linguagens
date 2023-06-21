@@ -1,0 +1,5 @@
+print('Escreva o seu nome:')
+nome = input()
+quantidade_de_letras = len(nome)
+print('Seu nome eh ' + nome)
+print('Esse nome tem ' + str(quantidade_de_letras) + ' letras')
