@@ -13,3 +13,6 @@ Algoritmos em linguagens de programação, marcação e outras. Você pode tanto
 
 ### Java
 - **Soma de números** - [**Rode online**](https://ideone.com/cKJSrt) - [**Código-fonte**](https://github.com/Projeto-Hanna/Tutoriais-linguagens/blob/main/Java/soma.java)
+
+### Python
+- **Nome e contagem de letras** - [**Rode online**](https://ideone.com/30mOEc) - [**Código-fonte**](https://github.com/Projeto-Hanna/Tutoriais-linguagens/blob/main/Python/nome.py)
